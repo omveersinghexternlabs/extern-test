@@ -9,8 +9,11 @@ and then start the server by bellow command
 
 it will run on port 1337
 
-
 NOTE: if in case it is not starting server then delete node_module folder and then again restart the server by above command.
+
+
+Now, open admin panel and enter email as "ovsextern@gmail.com" and password as "Omveer123456&"
+
 
 postman collection can be found with name = "Extern Test.postman_collection.json"
 
