@@ -1,10 +1,10 @@
 for running this strapi server you have to clone it from CLI, simply by using below command
 
-# git clone git@github.com:omveersinghexternlabs/extern-test.git
+### git clone git@github.com:omveersinghexternlabs/extern-test.git
 
 and then start the server by bellow command
 
-# npm run develop 
+### npm run develop 
 
 
 
